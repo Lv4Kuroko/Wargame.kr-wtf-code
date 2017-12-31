@@ -15,6 +15,8 @@
 
 4. http://ws2js.luilak.net/ 사이트를이용해 JS 스크립트로 변경해준다
 
+![IMG](./change.PNG)
+
 5. 파일을실행하면 개인 Flag를 얻을수잇다
 
 ![IMG](./result.PNG)
